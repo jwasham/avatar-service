@@ -1,8 +1,6 @@
 # Avatar Service
 
-Simple identicon server based on monsterid from Kevin Gaudin.
-
-From "Using Docker" by Adrian Mouat published by O'Reilly Media.
+Docker composition of encapsulated microservice for generating avatar images.
 
 Uses:
 
